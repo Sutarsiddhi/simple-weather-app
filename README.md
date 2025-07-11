@@ -16,10 +16,6 @@ The app uses a hardcoded API key:
 const apiKey = "d8ddca19ebfdb74fff0614ba7e2ab486";
 You can replace it with your own key from OpenWeatherMap.
 
-📸 Screenshot
-
-![Weather App Screenshot](weather app/images/screenshot.png)
-
 
 
 
