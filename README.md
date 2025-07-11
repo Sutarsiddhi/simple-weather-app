@@ -1,5 +1,6 @@
 # simple-weather-app
 🌤️ Weather App
+
 A simple and responsive Weather Application that allows users to check the current weather of any city using the OpenWeatherMap API. Built using HTML, CSS, and JavaScript, this app provides real-time weather updates including temperature, humidity, wind speed, and relevant weather icons.
 
 🔍 Features
@@ -17,7 +18,7 @@ You can replace it with your own key from OpenWeatherMap.
 
 📸 Screenshot
 
-![Weather App Screenshot](weather app/images/screenshot.png)
+![Weather App Screenshot](images/screenshot.png)
 
 
 
