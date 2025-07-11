@@ -17,7 +17,7 @@ You can replace it with your own key from OpenWeatherMap.
 
 📸 Screenshot
 
-![Weather App Screenshot](images/screenshot,png)
+![Weather App Screenshot](weather app/images/screenshot.png)
 
 
 
