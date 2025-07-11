@@ -18,7 +18,7 @@ You can replace it with your own key from OpenWeatherMap.
 
 📸 Screenshot
 
-![Weather App Screenshot]([weatherapp/images/screenshot.png](https://github.com/Sutarsiddhi/simple-weather-app/blob/main/weather%20app/images/screenshot.png))
+![Weather App Screenshot](weather app/images/screenshot.png)
 
 
 
